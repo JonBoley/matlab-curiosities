@@ -1,5 +1,7 @@
 %% you would expect none of these loops to run...
 % guess which one does
+%
+% code courtesy of Paul Sexton (https://github.com/psexton)
 
 for t = []          %// Iterate an empty 0x0 matrix
     fprintf('1\n');
